@@ -1,0 +1,33 @@
+.header-top {
+	padding: 10px 20px;
+}
+.logo {
+	margin-top: 10px !important;
+  padding-left: 30px !important;}
+
+
+
+
+.search-t{text-align:right;}
+.search-bar {
+	margin-top: 5px !important;
+	padding-right: 15px !important;
+}
+.margin {
+	margin-bottom: 280px;
+}
+.font {
+	font-size: 15px;
+}
+
+.pagination-p {
+	padding: 20px 445px !important;
+	margin-bottom: 0;
+}
+
+.footer-section{
+	background-color: #212529;
+	padding: 30px 0;
+	text-align: center;
+	color: #fff;
+}
